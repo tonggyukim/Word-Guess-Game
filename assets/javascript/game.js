@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ///GLOBAL VARIABLES
 
 //Arrays and Variables for holding data
@@ -103,6 +102,3 @@ document.onkeyup = function(event) {
     //Testing/Debugging
     console.log(letterGuessed);
 }
-=======
-alert("test");
->>>>>>> d7a154579b531d12b04eb09ffcd7cbcd30835fcd
